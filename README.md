@@ -10,7 +10,7 @@ Aspiring Web and App Developer and Designer
 Hello there!
 
 * 🌍  I'm based in Kerala, India
-* 🖥️  See my portfolio at [amaljsam.me](http://amaljsam.me)
+* 🖥️  See my portfolio at [amaljsam.me](http://amaljsam.unaux.com)
 * ✉️  You can contact me at [amaljsam@protonmail.com](mailto:amaljsam@protonmail.com)
 * 🤝  I'm open to collaborating on Front-End Web and App Development
 

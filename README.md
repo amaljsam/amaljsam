@@ -11,7 +11,7 @@ Hello there!
 
 * 🌍  I'm based in Kerala, India
 * 🖥️  See my portfolio at [amaljsam.unaux.com](http://amaljsam.unaux.com)
-* ✉️  You can contact me at [amaljsam@protonmail.com](mailto:amaljsam@protonmail.com)
+* ✉️  You can contact me at [amaljsamruwi@gmail.com](mailto:amaljsamruwi@gmail.com)
 * 🤝  I'm open to collaborating on Front-End Web Development, App Development, and Embedded Systems Development
 
 <a href="https://www.github.com/amaljsam" target="_blank" rel="noreferrer"><img
